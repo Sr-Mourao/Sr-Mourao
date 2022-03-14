@@ -1,7 +1,7 @@
 ### Oi! Eu sou o Mourão 👋
 
 - 🔭 Hoje estou em estudos de programação 
-- 🌱 Estudando Reactjs e React Native
+- 🌱 Estudando Web Mobile com React
 - 👯 Em busca de novas oportunidades
 
 <div align="center">
