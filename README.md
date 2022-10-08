@@ -1,8 +1,8 @@
 ### Oi! Eu sou o Mourão 👋
 
-- 🔭 Hoje estou em estudos de programação 
-- 🌱 Estudando Web Mobile com React
-- 👯 Em busca de novas oportunidades
+- 🔭 Dev Full Stack 
+- 🌱 Estagiando como desenvolvedor 
+- 👯 Estudante de ADS
 
 <div align="center">
   <a href="https://github.com/Sr-Mourao">
