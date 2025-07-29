@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🧑🏼‍💻 Full Stack Developer<br>- 📚 Student of Systems Analysis and Developmentt<br>- 💻 Software Developer Senha Digital</p>
+<p align="left">- 🧑🏼‍💻 Full Stack Developer</p>
 
 ###
 
